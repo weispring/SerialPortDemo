@@ -1,1 +1,8 @@
 bin
+.classpath
+.fatjar
+.project
+LICENSE
+*.iml
+.settings
+.idea
